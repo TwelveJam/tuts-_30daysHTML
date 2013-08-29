@@ -1,0 +1,591 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"s",
+				"sans"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"d",
+				"Droid"
+			],
+			[
+				"A",
+				"Advent"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"u",
+				"u	Tag"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"req",
+				"Require"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"a",
+				"a	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"zurb",
+				"Snippet: Zurb 3 Column Layout"
+			],
+			[
+				"zu",
+				"Snippet: Zurb 2 Column Layout"
+			],
+			[
+				"nav",
+				"Snippet: Zurb Nav Bar"
+			],
+			[
+				"sn",
+				"Snippet: Zurb Nav Bar"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package contr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"side",
+				"Side Bar: Reveal File"
+			],
+			[
+				"sni lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"set syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"wordpres",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			]
+		],
+		"width": 397.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kamal/Sites/testleadbitter.com/wp-content/themes/testtheme/index.php",
+		"/Users/kamal/Sites/testleadbitter.com/wp-content/themes/testtheme/style.css",
+		"/Users/kamal/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kamal/Sites/twelvejamin/includes/_header.html",
+		"/Users/kamal/Sites/twelvejamin/includes/_footer.html",
+		"/Users/kamal/Sites/myfirstdomain/Build/findex.html",
+		"/Users/kamal/Sites/myfirstdomain/Build/hamltest.html",
+		"/Users/kamal/Twelvejam/views/layouts/application.html.erb",
+		"/Users/kamal/Twelvejam/app/views/layouts/application.html.erb",
+		"/Users/kamal/Twelvejam/app/views/statuses/index.html.erb",
+		"/Users/kamal/Twelvejam/app/assets/stylesheets/12j_layout.scss",
+		"/Users/kamal/Twelvejam/app/views/statuses/index.rhtml",
+		"/Users/kamal/Twelvejam/public/index.html",
+		"/Users/kamal/Twelvejam/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/kamal/Sites/myfirstdomain/includes/_nav.html",
+		"/Users/kamal/Sites/myfirstdomain/_markdown.md",
+		"/Users/kamal/Sites/myfirstdomain/includes/_footer.html",
+		"/Users/kamal/Sites/myfirstdomain/includes/_header.html",
+		"/Users/kamal/Sites/myfirstdomain/README.md",
+		"/Users/kamal/Sites/myfirstdomain/index.html",
+		"/Users/kamal/Sites/myfirstdomain/Build/assets/css/style.css",
+		"/Users/kamal/Desktop/awesome/_layouts/post.html",
+		"/Users/kamal/Desktop/awesome/_layouts/archive.html",
+		"/Users/kamal/Desktop/awesome/_config.yml",
+		"/Users/kamal/Desktop/awesome/index.html",
+		"/Users/kamal/Desktop/awesome/_posts/2013-06-22-this-is-cool.md",
+		"/Users/kamal/Desktop/awesome/_posts/2013-06-22-this-is-cool.html",
+		"/Users/kamal/Sites/TwelveJam YouTube/includes/_nav.html",
+		"/Users/kamal/Sites/TwelveJam YouTube/assets/css/style.scss",
+		"/Users/kamal/Sites/TwelveJam YouTube/index.html",
+		"/Users/kamal/Sites/TwelveJam YouTube/includes/_footer.html",
+		"/Users/kamal/Sites/TwelveJam YouTube/includes/_header.html",
+		"/Users/kamal/Sites/TwelveJam YouTube/_markdown.md",
+		"/Users/kamal/Sites/TwelveJam YouTube/README.md",
+		"/Users/kamal/Sites/Metroflex/kits/_nav.kit",
+		"/Users/kamal/Sites/Metroflex/.gitignore",
+		"/Users/kamal/Sites/Metroflex/README.md",
+		"/Users/kamal/Sites/Metroflex/see_all.kit",
+		"/Users/kamal/Sites/Metroflex/gallery.kit",
+		"/Users/kamal/Sites/Metroflex/404_error_page.kit",
+		"/Users/kamal/Sites/Metroflex/donation_form_page.kit",
+		"/Users/kamal/Sites/Metroflex/signing_up.kit",
+		"/Users/kamal/Sites/Metroflex/forms.kit",
+		"/Users/kamal/Sites/Metroflex/pricing_page_layout2.kit",
+		"/Users/kamal/Sites/Metroflex/pricing_tables.kit",
+		"/Users/kamal/Sites/Metroflex/single_services_layout2.kit",
+		"/Users/kamal/Sites/Metroflex/single_services_page.kit",
+		"/Users/kamal/Sites/Metroflex/services_pages_layout1.kit",
+		"/Users/kamal/Sites/Metroflex/services_pages.kit",
+		"/Users/kamal/Sites/Metroflex/services_pages.url",
+		"/Users/kamal/Sites/Metroflex/about_us_layout1.kit",
+		"/Users/kamal/Sites/Metroflex/about_us_pages.kit",
+		"/Users/kamal/Sites/Metroflex/contact_layout1.kit",
+		"/Users/kamal/Sites/Metroflex/contact_pages.kit",
+		"/Users/kamal/Sites/Metroflex/stretched_width.kit",
+		"/Users/kamal/Sites/Metroflex/fixed_width.kit",
+		"/Users/kamal/Sites/Metroflex/about_us_layout2.kit",
+		"/Users/kamal/Sites/Metroflex/contact_layout2.kit",
+		"/Users/kamal/Sites/Metroflex/portfolio_detail.kit",
+		"/Users/kamal/Sites/Metroflex/stacked_layout.kit",
+		"/Users/kamal/Sites/Metroflex/portfolio_4.kit",
+		"/Users/kamal/Sites/Metroflex/portfolio_3.kit",
+		"/Users/kamal/Sites/Metroflex/portfolio_1.kit",
+		"/Users/kamal/Sites/Metroflex/generic.kit",
+		"/Users/kamal/Sites/Metroflex/build/javascripts/slicebox.min.js",
+		"/Users/kamal/Sites/Metroflex/build/javascripts/slicebox.js",
+		"/Users/kamal/Sites/Metroflex/build/css/app-min.css",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/pitch.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/variables/_general.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/partials/_navigation.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/libs/_typeplate.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/mixins/_general.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/app.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/partials/_buttons.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/variables/_colours.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/front1.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/about2.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/_header.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/build/about2.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/build/js/vendor/kerning.js",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/build/js/vendor/jquery.fittext.js",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/config.rb",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/_footer.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/about1.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/build/everything.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/index1.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/_pricing-table.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/_table-packages.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/aboutus2.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/build/front1.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/build/home1.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/home1.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/_slider.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/portfolio1.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/portfolio2.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/portfolio3.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/portfolio4.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/front2.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/_headertemp.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/_settings.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/slider.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/front4.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/_gallery.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/subnav.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/packages.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/portfolio.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/front3.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/sass/_metroflex.scss",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/header.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/kits/pricing-table.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/front2.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/nav.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/index.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/front1.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/footer.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/index.html",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/marketing.kit",
+		"/Users/Sulcalibur/Documents/Work/MetroFlex/README.md",
+		"/Users/Sulcalibur/Documents/Work/StaRemix/sass/app.scss",
+		"/Users/Sulcalibur/Documents/Work/StaRemix/sass/_settings.scss",
+		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-project",
+		"/Users/Sulcalibur/Documents/Work/StaRemix/stylesheets/normalize.css",
+		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-workspace",
+		"/Users/Sulcalibur/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Sulcalibur/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/Sulcalibur/Documents/Work/StaRemix/index.html",
+		"/Users/Sulcalibur/Desktop/foundation/index.html",
+		"/Users/Sulcalibur/Documents/Work/HamzaTemplate/Coding/styleguide/public/global.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TwelveJam",
+			"social",
+			"javascripts",
+			"80%",
+			"20%",
+			"external",
+			"blockquote",
+			"border-radius",
+			"border",
+			"{darken",
+			"modal",
+			"$",
+			"2x",
+			"3x",
+			"th",
+			"600/300",
+			"large-6",
+			"</p>",
+			"600/600",
+			"large-4",
+			"1280/",
+			"city",
+			"javascripts",
+			"h1",
+			"phoenix",
+			"Phoenix",
+			"phoenix",
+			"$text-direction",
+			">",
+			"config",
+			"side",
+			"slow",
+			"detect_slow_plugins",
+			"visual"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"views/layouts/application.html.erb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"scaff",
+				"app/assets/stylesheets/scaffolds.css.scss"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"",
+				"assets/css/style.scss"
+			],
+			[
+				"mixin",
+				"sass/mixins/_general.scss"
+			],
+			[
+				"mix",
+				"sass/mixins/_general.scss"
+			],
+			[
+				"variab",
+				"sass/variables/_general.scss"
+			],
+			[
+				"butto",
+				"sass/partials/_buttons.scss"
+			],
+			[
+				"fron",
+				"front2.kit"
+			],
+			[
+				"metr",
+				"sass/_metroflex.scss"
+			],
+			[
+				"inde",
+				"index2.html"
+			],
+			[
+				".css",
+				"stylesheets/normalize.css"
+			],
+			[
+				"visual",
+				"neat/grid/_visual-grid.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Sulcalibur/Documents/Work/Presentations/Sass - Starting out/sass-startingout.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}
