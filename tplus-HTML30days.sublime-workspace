@@ -131,6 +131,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -465,8 +473,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "readme.md",
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -575,6 +610,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"tree",
+				"/Users/kamal/forum/treehouse-ror.sublime-project"
+			],
 			[
 				"",
 				"/Users/Sulcalibur/Documents/Work/Presentations/Sass - Starting out/sass-startingout.sublime-project"
