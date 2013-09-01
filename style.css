@@ -1,14 +1,31 @@
+body {
+  background-color:rgba(227, 223, 226, 1.0);
+  font-family: sans-serif;
+}
+
+blockquote {
+ border: 2px solid white;
+ text-align: center;
+ padding: 13px;
+}
 
 
 
+h1 , p {
+  text-align: center;
+}
+
+
+ul , li , h2{
+  margin: auto;
+  width: 400px;
+}
 
 
 
-
-
-
-
-
+.name {
+ font-size: 13px;
+}
 
 
 
