@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"te",
+				"text-align"
+			],
+			[
+				"Li",
+				"link	Tag"
+			],
+			[
+				"b",
+				"body	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
 				"border-r",
 				"border-right"
 			],
@@ -24,20 +44,12 @@
 				"background-color"
 			],
 			[
-				"b",
-				"border"
-			],
-			[
 				"mar",
 				"margin"
 			],
 			[
 				"f",
 				"font-weight"
-			],
-			[
-				"m",
-				"margin-top"
 			],
 			[
 				"ma",
@@ -96,16 +108,8 @@
 				"font-weight"
 			],
 			[
-				"te",
-				"text-decoration"
-			],
-			[
 				"li",
 				"li	Tag"
-			],
-			[
-				"h",
-				"h1	Tag"
 			],
 			[
 				"req",
@@ -132,30 +136,27 @@
 	"buffers":
 	[
 		{
-			"file": "readme.md",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 102,
-				"line_ending": "Unix"
+				"buffer_size": 254,
+				"line_ending": "Unix",
+				"name": "hello world"
 			}
 		},
 		{
-			"contents": "<!doctype html>\n<html>\n<head>\n  <title>My Page</title>\n     <meta charset=\"UTF-8\">\n</head>\n<body>\n\n<h1>Things I Must Do\n<span>Today!</span>\n</h1>\n\n<dl>\n<dt>Sublime:</dt>\n<dd>A Code Editer</dd>\n</dl>\n\n\n<dl>\n<dt>Sublime:</dt>\n<dd>A Code Editer</dd>\n</dl>\n\n<dl>\n<dt>Sublime:</dt>\n<dd>A Code Editer</dd>\n</dl>\n\n<dl>\n<dt>Sublime:</dt>\n<dd>A Code Editer</dd>\n</dl>\n\n\n  <ul>\n    <li>Go To The Shop!</li>\n      <ol>Milk</ol>\n        <ol>Bread</ol> \n        \n\n\n      <li>Go Home!</li>\n      <li>Sleep!</li>\n    <li>Wake Up!</li>\n  </ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</body>\n</html>\n",
-			"file": "index.html",
-			"file_size": 507,
-			"file_write_time": 1377809720000000,
+			"file": " about.html",
 			"settings":
 			{
-				"buffer_size": 562,
-				"line_ending": "Unix",
-				"name": "hello world"
+				"buffer_size": 333,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "   style.css",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 42,
 				"line_ending": "Unix"
 			}
 		}
@@ -296,6 +297,8 @@
 	},
 	"file_history":
 	[
+		"/Users/kamal/Sites/bannersig site/assets/css/style.scss",
+		"/Users/kamal/Documents/Education/tuts+_30daysHTML/readme.md",
 		"/Users/kamal/Documents/Education/tuts+_30daysHTML/new.html",
 		"/Users/kamal/Sites/testleadbitter.com/wp-content/themes/testtheme/index.php",
 		"/Users/kamal/Sites/testleadbitter.com/wp-content/themes/testtheme/style.css",
@@ -421,9 +424,7 @@
 		"/Users/Sulcalibur/Documents/Work/StaRemix/stylesheets/normalize.css",
 		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-workspace",
 		"/Users/Sulcalibur/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/Sulcalibur/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
-		"/Users/Sulcalibur/Documents/Work/StaRemix/index.html",
-		"/Users/Sulcalibur/Desktop/foundation/index.html"
+		"/Users/Sulcalibur/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings"
 	],
 	"find":
 	{
@@ -495,49 +496,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "readme.md",
-					"settings":
-					{
-						"buffer_size": 102,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								102,
-								102
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 562,
+						"buffer_size": 254,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								449,
-								449
+								128,
+								128
 							]
 						],
 						"settings":
@@ -554,19 +529,45 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "   style.css",
+					"buffer": 1,
+					"file": " about.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 333,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "   style.css",
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
 							]
 						],
 						"settings":
@@ -688,12 +689,12 @@
 		"selected_items":
 		[
 			[
-				"tree",
-				"/Users/kamal/forum/treehouse-ror.sublime-project"
+				"",
+				"/Users/kamal/Sites/kl designs1/kjldesigns.sublime-project"
 			],
 			[
-				"",
-				"/Users/Sulcalibur/Documents/Work/Presentations/Sass - Starting out/sass-startingout.sublime-project"
+				"tree",
+				"/Users/kamal/forum/treehouse-ror.sublime-project"
 			]
 		],
 		"width": 380.0
