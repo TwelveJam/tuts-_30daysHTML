@@ -1,32 +1,47 @@
+
 body {
-  background-color:rgba(217, 213, 216, 1.0);
-  font-family: sans-serif;
-}
-
-blockquote {
- border: 3px solid white;
- border-radius: 20px;
- text-align: center;
- padding: 13px;
+width: 80%;
+min-width: 600px;
+margin: auto;
+background-color: green;
+overflow: hidden;
 }
 
 
-
-h1 , p {
-  text-align: center;
+.content {
+  background-color: red;
+  float: left;
+  width: 80%;
 }
 
 
-ul , li , h2{
-  margin: auto;
-  width: 400px;
+aside {
+  background-color: brown;
+  float: left;
+  width: 20%;
+
+}
+
+
+.content , aside {
+height: 600px;
+
+}
+
+
+aside ul {
+  padding-left: 0px;
+  list-style: none;
 }
 
 
 
-.name {
- font-size: 13px;
-}
+
+
+
+
+
+
 
 
 
