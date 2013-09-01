@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"l",
+				"LINK	Tag"
+			],
+			[
 				"te",
 				"text-align"
 			],
@@ -116,10 +120,6 @@
 				"Require"
 			],
 			[
-				"l",
-				"li	Tag"
-			],
-			[
 				"i",
 				"img	Tag"
 			],
@@ -139,13 +139,13 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 254,
+				"buffer_size": 274,
 				"line_ending": "Unix",
 				"name": "hello world"
 			}
 		},
 		{
-			"file": " about.html",
+			"file": "about.html",
 			"settings":
 			{
 				"buffer_size": 333,
@@ -153,10 +153,10 @@
 			}
 		},
 		{
-			"file": "   style.css",
+			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 42,
+				"buffer_size": 62,
 				"line_ending": "Unix"
 			}
 		}
@@ -297,6 +297,8 @@
 	},
 	"file_history":
 	[
+		"/Users/kamal/Documents/Education/tuts+_30daysHTML/   style.css",
+		"/Users/kamal/Documents/Education/tuts+_30daysHTML/ about.html",
 		"/Users/kamal/Sites/bannersig site/assets/css/style.scss",
 		"/Users/kamal/Documents/Education/tuts+_30daysHTML/readme.md",
 		"/Users/kamal/Documents/Education/tuts+_30daysHTML/new.html",
@@ -422,9 +424,7 @@
 		"/Users/Sulcalibur/Documents/Work/StaRemix/sass/_settings.scss",
 		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-project",
 		"/Users/Sulcalibur/Documents/Work/StaRemix/stylesheets/normalize.css",
-		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-workspace",
-		"/Users/Sulcalibur/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/Sulcalibur/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings"
+		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-workspace"
 	],
 	"find":
 	{
@@ -496,7 +496,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -504,15 +504,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 254,
+						"buffer_size": 274,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								128,
-								128
+								150,
+								150
 							]
 						],
 						"settings":
@@ -530,7 +530,7 @@
 				},
 				{
 					"buffer": 1,
-					"file": " about.html",
+					"file": "about.html",
 					"settings":
 					{
 						"buffer_size": 333,
@@ -556,18 +556,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "   style.css",
+					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 42,
+						"buffer_size": 62,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8,
-								8
+								20,
+								20
 							]
 						],
 						"settings":
@@ -703,6 +703,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 115.0,
 	"status_bar_visible": true
 }
