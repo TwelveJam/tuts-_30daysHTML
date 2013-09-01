@@ -1,10 +1,11 @@
 body {
-  background-color:rgba(227, 223, 226, 1.0);
+  background-color:rgba(217, 213, 216, 1.0);
   font-family: sans-serif;
 }
 
 blockquote {
- border: 2px solid white;
+ border: 3px solid white;
+ border-radius: 20px;
  text-align: center;
  padding: 13px;
 }
