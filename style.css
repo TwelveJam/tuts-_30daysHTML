@@ -10,17 +10,17 @@ background: green;
 img   {
 
 width: 60px;
-height: 60px
+height: 60px;
 
 }
 
 
-
-
-
-
-
-
+div {
+  width: 500px;
+  margin: auto;
+  background-color: red;
+  text-align: center;
+}
 
 
 
