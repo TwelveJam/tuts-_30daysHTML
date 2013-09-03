@@ -1,29 +1,11 @@
-form li {
-list-style: none;
-margin-bottom: 20px;
+
+
+h1 {
+  background: url(img/facebook-claptrap-bg.jpg) no-repeat;
+  text-indent: -99999px;
+  width: 600px;
+  height: 200px;
+
 }
 
 
-label {
-  display: block;
-  cursor: pointer;
-  color: #292929;
-  font-family: sans-serif;
-  padding-bottom: 8px;
-}
-
-form ul {
-  padding-left: 0px;
-}
-
-
-textarea {
-  width: 400px;
-  height: 250px;
-  cursor: pointer;
-}
-
-.container {
-  width: 1000px;
-  margin: 10px auto;
-}
