@@ -1,45 +1,26 @@
 
+
 body {
-width: 80%;
-min-width: 600px;
-margin: auto;
-background-color: green;
-overflow: hidden;
+  font-family: sans-serif;
+  background-color: #BADA55;
 }
 
 
-.content {
-  background-color: red;
-  float: left;
-  width: 80%;
+li {
+  display: inline;
+  padding-right: 10px;
+}
+
+li a {
+text-decoration: none;
+color: gray;
 }
 
 
-aside {
-  background-color: brown;
-  float: left;
-  width: 20%;
-
+ul a:hover {
+  text-decoration: underline;
+  color: white;
 }
-
-
-.content , aside {
-height: 600px;
-
-}
-
-
-aside ul {
-  padding-left: 0px;
-  list-style: none;
-}
-
-
-
-
-
-
-
 
 
 
