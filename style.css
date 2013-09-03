@@ -1,11 +1,33 @@
 
+body {
+  background: #666;
+}
+
 
 h1 {
-  background: url(img/facebook-claptrap-bg.jpg) no-repeat;
-  text-indent: -99999px;
-  width: 600px;
-  height: 200px;
+ font-size: 120px;
+  text-align: center;
+    margin-top: 10px;
+     font-family: sans-serif;
+    letter-spacing: -5px;
+   color: black;
+  text-transform: lowercase;
+ text-shadow: 5px 1px 0 white , 6px 2px 1px red;
+ /*font-variant: small-caps;/
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
