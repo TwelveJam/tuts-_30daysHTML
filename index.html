@@ -1,21 +1,51 @@
 <!doctype html>
 
 <html>
-    <head>
-
-<title>My Blog Page</title>
-  <meta charset="UTF-8">
-    </head>
+  <head>
+    <meta charset="UTF-8">
+    <title>My Blog Page</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-</html>
-<body>
+  </head>
 
-<ul>
-  <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Portfolio</a></li>
-  <li><a href="#">Contact</a></li>
-</ul>
-
-</body>
+  <body>
+    <div class="container">
+      <form action="contact.php" method="get">
+        <ul>
+          <li>
+           <label for="name">Enter Your Name</label>
+           <input id="name" name="name" />
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <label for="comments">Your Comments</label>
+              <textarea id="comments" name="comments"></textarea>
+          </li>
+          <li>
+            <label for="css">Do You Like SCCS More Than CSS</label>
+            <input type="checkbox" name="css" id="css"/>
+          </li>
+          <li>
+            <label for="">Favorite YouTuber?</label>
+            <input type="radio" name="toby" id="radio"/> Tobuscus
+            <input type="radio" name="pew" id="radio"/> Pewdipie
+            <input type="radio" name="tj" id="radio"/> TwelveJam
+            <input type="radio" name="htb" id="radio"/> How To Basic
+          </li>
+          <li>
+            <label for="">Favorite YouTuber?</label>
+            <input type="checkbox" name="toby" id="radio"/> Tobuscus
+            <input type="checkbox" name="pew" id="radio"/> Pewdipie
+            <input type="checkbox" name="tj" id="radio"/> TwelveJam
+            <input type="checkbox" name="htb" id="radio"/> How To Basic
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <input type="submit" value="Go!"/>
+          </li>
+        </ul>
+      </form>
+    </div><!-- container -->
+  </body>
 </html>
