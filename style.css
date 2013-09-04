@@ -1,8 +1,24 @@
 
+.container {
+  background-color: rgba(148, 148, 148, 1.0);
+}
 
 
+.banner {
+  background: url(img/city_night-00000.jpg);
+  width: 1000px;
+  height: 200px;
+}
 
 
+#white  {
+ color: white;
+}
+
+#black {
+color: black;
+font-weight: bold;
+}
 
 
 
