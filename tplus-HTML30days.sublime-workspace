@@ -4,12 +4,120 @@
 		"selected_items":
 		[
 			[
-				"l",
-				"LINK	Tag"
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"C",
+				"color"
+			],
+			[
+				"ma",
+				"margin-top"
 			],
 			[
 				"te",
 				"text-align"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"for",
+				"FORM	Tag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"l",
+				"LINK	Tag"
 			],
 			[
 				"Li",
@@ -24,16 +132,8 @@
 				"meta	Tag"
 			],
 			[
-				"h",
-				"head	Tag"
-			],
-			[
 				"border-r",
 				"border-right"
-			],
-			[
-				"bo",
-				"border-left"
 			],
 			[
 				"t",
@@ -48,24 +148,12 @@
 				"background-color"
 			],
 			[
-				"mar",
-				"margin"
-			],
-			[
 				"f",
 				"font-weight"
 			],
 			[
-				"ma",
-				"margin-left"
-			],
-			[
 				"bord",
 				"border-radius"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"o",
@@ -76,10 +164,6 @@
 				"color"
 			],
 			[
-				"fon",
-				"font-size"
-			],
-			[
 				"s",
 				"sans"
 			],
@@ -88,16 +172,8 @@
 				"sans-serif"
 			],
 			[
-				"d",
-				"Droid"
-			],
-			[
 				"A",
 				"Advent"
-			],
-			[
-				"r",
-				"rgba()"
 			],
 			[
 				"bg",
@@ -112,20 +188,8 @@
 				"font-weight"
 			],
 			[
-				"li",
-				"li	Tag"
-			],
-			[
 				"req",
 				"Require"
-			],
-			[
-				"i",
-				"img	Tag"
-			],
-			[
-				"for",
-				"for	for (…) {…}"
 			],
 			[
 				"a",
@@ -139,24 +203,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 274,
+				"buffer_size": 2582,
 				"line_ending": "Unix",
 				"name": "hello world"
-			}
-		},
-		{
-			"file": "about.html",
-			"settings":
-			{
-				"buffer_size": 333,
-				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 62,
+				"buffer_size": 590,
 				"line_ending": "Unix"
 			}
 		}
@@ -167,6 +223,14 @@
 		"height": 49.0,
 		"selected_items":
 		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -214,10 +278,6 @@
 			[
 				"upgrade",
 				"Package Control: Upgrade Package"
-			],
-			[
-				"gist",
-				"Gist: Insert Gist"
 			],
 			[
 				"pack",
@@ -280,7 +340,7 @@
 				"Snippet: html"
 			]
 		],
-		"width": 510.0
+		"width": 426.0
 	},
 	"console":
 	{
@@ -297,10 +357,14 @@
 	},
 	"file_history":
 	[
+		"/Users/kamal/Documents/Education/tuts+_30daysHTML/readme.md",
+		"/Users/kamal/Documents/Education/tuts+_30daysHTML/reset.css",
+		"/Users/kamal/Documents/Education/tuts+_30daysHTML/:* http:::meyerweb.com:eric:tools:css:reset:",
+		"/Users/kamal/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/kamal/Documents/Education/tuts+_30daysHTML/about.html",
 		"/Users/kamal/Documents/Education/tuts+_30daysHTML/   style.css",
 		"/Users/kamal/Documents/Education/tuts+_30daysHTML/ about.html",
 		"/Users/kamal/Sites/bannersig site/assets/css/style.scss",
-		"/Users/kamal/Documents/Education/tuts+_30daysHTML/readme.md",
 		"/Users/kamal/Documents/Education/tuts+_30daysHTML/new.html",
 		"/Users/kamal/Sites/testleadbitter.com/wp-content/themes/testtheme/index.php",
 		"/Users/kamal/Sites/testleadbitter.com/wp-content/themes/testtheme/style.css",
@@ -420,11 +484,7 @@
 		"/Users/Sulcalibur/Documents/Work/MetroFlex/index.html",
 		"/Users/Sulcalibur/Documents/Work/MetroFlex/marketing.kit",
 		"/Users/Sulcalibur/Documents/Work/MetroFlex/README.md",
-		"/Users/Sulcalibur/Documents/Work/StaRemix/sass/app.scss",
-		"/Users/Sulcalibur/Documents/Work/StaRemix/sass/_settings.scss",
-		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-project",
-		"/Users/Sulcalibur/Documents/Work/StaRemix/stylesheets/normalize.css",
-		"/Users/Sulcalibur/Documents/Work/StaRemix/staremix.sublime-workspace"
+		"/Users/Sulcalibur/Documents/Work/StaRemix/sass/app.scss"
 	],
 	"find":
 	{
@@ -504,15 +564,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 274,
+						"buffer_size": 2582,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								150,
-								150
+								2266,
+								2266
 							]
 						],
 						"settings":
@@ -523,56 +583,36 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 50.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "about.html",
-					"settings":
-					{
-						"buffer_size": 333,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								293,
-								293
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 62,
+						"buffer_size": 590,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								20,
-								20
+								106,
+								106
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"gist_description": "Testing ST2 Gist",
+							"gist_filename": "style.css",
+							"gist_html_url": "https://gist.github.com/6416540",
+							"gist_url": "https://api.github.com/gists/6416540",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -702,7 +742,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 115.0,
+	"side_bar_visible": false,
+	"side_bar_width": 132.0,
 	"status_bar_visible": true
 }
